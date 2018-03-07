@@ -10,3 +10,4 @@ Related Article: https://playelek.com/doit-esp32-devkit-v1/
 2. ESP32 Datasheet http://espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf
 3. ESP WROOM32 Datasheet http://espressif.com/sites/default/files/documentation/esp-wroom-32_datasheet_en.pdf
 4. wroom32 pinout http://www.pighixxx.com/test/2016/08/wroom32/
+5. wroom32 fvfvfv file:///C:/Users/msoto/Downloads/pinoutDOIT32DevkitV1.pdf
